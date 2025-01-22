@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+section {
+    background-image: url('imagens/pexels-merictuna-edit.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
